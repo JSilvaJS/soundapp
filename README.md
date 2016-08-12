@@ -1,5 +1,6 @@
 # Synopsis
-A sound player built with HTML, CSS, React.js & SoundCloud API.
+A basic sound player built with HTML, CSS, React.js & SoundCloud API.
+
 
 # Sample Code
 ```javascript
